@@ -31,6 +31,14 @@ jeepay-task 定时任务,包括对账服务,结算服务.部署时需单节点�
 |jeepay-service |  | 业务接口
 |jeepay-task | 58194 | 定时任务,包括对账和结算服务
 
+演示图:
+
+https://github.com/a2078233959/jeepay9org/blob/main/1.png
+
+https://github.com/a2078233959/jeepay9org/blob/main/2.png
+
+https://github.com/a2078233959/jeepay9org/blob/main/3.png
+
 
 --系统演示-----------------
 1）运营平台
