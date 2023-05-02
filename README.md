@@ -1,5 +1,5 @@
 # jeepay9org
-捷派支付系统商业版本，使用 springboot + dubbo 架构开发,支持分布式部署.
+捷派四方支付系统商业版本，使用 springboot + dubbo 架构开发,支持分布式部署.
 
 ### 开发说明
 
